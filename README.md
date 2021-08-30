@@ -7,7 +7,7 @@
 
 ```shell script
 clone the repo
-cd 3DOD/
+cd 3D-Object-Detection/
 pip install -r requirements.txt
 ```
 
